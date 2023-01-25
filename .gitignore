@@ -1,0 +1,14 @@
+./node_modules
+node_modules
+
+
+./.env
+.env
+
+
+./artifacts
+artifacts
+
+
+./cache
+cache
